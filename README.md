@@ -9,3 +9,6 @@ The message "Your site is ready to be published at https:// etc dont come.
 
 ~30' later refresh and again refresh.
 Nothing hapens.
+
+Then I added this readme.md file and now seems to work. GREAT !!!
+
